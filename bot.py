@@ -3,7 +3,7 @@ from discord import app_commands
 from discord.ext import commands
 import asyncio
 
-TOKEN = "MTUwNzY5ODg2MDYzNjc3MDM3NA.Ge_boc.RPS8dEAjkyX_xBL7ssPP99jN0PKpvwXo5bMci0"
+TOKEN = "MTUwNzY5ODg2MDYzNjc3MDM3NA.GTABn8.IacljTpZLpMYOXdXUF1Q3RvZbYRMAml6DoMUR0"
 
 intents = discord.Intents.default()
 intents.message_content = True
